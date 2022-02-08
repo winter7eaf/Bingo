@@ -1,5 +1,6 @@
 # Bingo
  Java (IntelliJ IDEA)
+ 
  Nov 2021
  - Set the dimensions of the ingo cards
  - Set the numbers contained on every card
